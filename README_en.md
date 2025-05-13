@@ -1,5 +1,5 @@
 # PhotoVideoTimeSort 📸⏳
-[简体中文版本](#english-version)
+[简体中文版本](#https://github.com/liu-XiaoShu/PhotoVideoTimeSort/blob/main/README.md)
 
 
 ## Intelligent Media Organizer
