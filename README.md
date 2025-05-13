@@ -1,5 +1,5 @@
 # PhotoVideoTimeSort 📸⏳
-[English Version](#https://github.com/liu-XiaoShu/PhotoVideoTimeSort/blob/main/README_en.md)
+[English Version](https://github.com/liu-XiaoShu/PhotoVideoTimeSort/blob/main/README_en.md)
 
 ## 智能媒体文件整理专家
 
